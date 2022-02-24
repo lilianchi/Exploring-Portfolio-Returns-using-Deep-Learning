@@ -1,4 +1,5 @@
 ### Exploring-Portfolio-Returns-using-Deep-Learning
+Try to optimize the sharpe ratio in model 1 and achieve the highest R-aquare in model 2
 
 ### Programming language
 Python
