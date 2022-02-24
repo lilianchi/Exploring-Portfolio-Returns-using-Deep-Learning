@@ -1,4 +1,7 @@
-# Exploring-Portfolio-Returns-using-Deep-Learning
+### Exploring-Portfolio-Returns-using-Deep-Learning
+
+### Programming language
+Python
 
 ### Problem 1
 Given the 58-year portfolio data, what is the highest sharpe ratio we can achieve?
