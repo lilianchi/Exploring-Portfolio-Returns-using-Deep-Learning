@@ -7,6 +7,11 @@ Python
 ### Problem 1
 Given the 58-year portfolio data, what is the highest sharpe ratio we can achieve?
 
+### Authors
+* Yichen Zhang (Professor)
+* Li-Ci Chuang
+* Su-Tien Lee
+
 ### Data for Model 1
 * data_Z_eff: Feature matrix X with size 2219316×64
 * data_R_eff: Cutoff to the output vector with ±0.2 return
